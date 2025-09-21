@@ -1,13 +1,14 @@
 #
 
 <p align="center">
-  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=CyberScraper">
+  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=HACKING-LLM">
     <img src="https://i.postimg.cc/dtwTvm5V/728-x-90-2.gif" alt="Collect-web-data-728x90" border="0">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/j5b7QSzg/scraper.png" alt="CyberScraper 2077 Logo">
+  <img src="https://i.ibb.co.com/qhCY47D/Gemini-Generated-Image-rgl4v1rgl4v1rgl4.png"
+" alt="HACKING-LLM 2077 Logo">
 </p>
 
 <p align="center">
@@ -18,23 +19,23 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Scrapeless](https://img.shields.io/badge/Scrapeless%20Branch-Available-blue)](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077)
+[![Scrapeless](https://img.shields.io/badge/Scrapeless%20Branch-Available-blue)](https://github.com/itsOwen/HACKING-LLM-2077/tree/CyberScrapeless-2077)
 
 > Rip data from the net, leaving no trace. Welcome to the future of web scraping.
 
 ## 🔍 About
 
-CyberScraper 2077 is not just another web scraping tool – it's a glimpse into the future of data extraction. Born from the neon-lit streets of a cyberpunk world, this AI-powered scraper uses OpenAI, Gemini and LocalLLM Models to slice through the web's defenses, extracting the data you need with unparalleled precision and style.
+HACKING-LLM 2077 is not just another web scraping tool – it's a glimpse into the future of data extraction. Born from the neon-lit streets of a cyberpunk world, this AI-powered scraper uses OpenAI, Gemini and LocalLLM Models to slice through the web's defenses, extracting the data you need with unparalleled precision and style.
 
-Whether you're a corpo data analyst, a street-smart netrunner, or just someone looking to pull information from the digital realm, CyberScraper 2077 has got you covered.
+Whether you're a corpo data analyst, a street-smart netrunner, or just someone looking to pull information from the digital realm, HACKING-LLM 2077 has got you covered.
 
 ### 🚀 Two Powerful Versions Available
 
 **Main Branch (Current)**: Traditional web scraping with advanced features
-**[Scrapeless Integration Branch](https://github.com/itsOwen/CyberScraper-2077/tree/)**: Enterprise-grade scraping with [Scrapeless SDK](https://www.scrapeless.com?utm_source=owen) integration
+**[Scrapeless Integration Branch](https://github.com/itsOwen/HACKING-LLM-2077/tree/)**: Enterprise-grade scraping with [Scrapeless SDK](https://www.scrapeless.com?utm_source=owen) integration
 
 <p align="center">
-  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=CyberScraper">
+  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=HACKING-LLM">
     <img src="https://i.postimg.cc/dtwTvm5V/728-x-90-2.gif" alt="Collect-web-data-728x90" border="0">
   </a>
 </p>
@@ -61,7 +62,7 @@ Whether you're a corpo data analyst, a street-smart netrunner, or just someone l
 - 🧭 **Navigate through the Pages (BETA)**: Navigate through the webpage and scrape data from different pages.
 
 ### ⚔️ Scrapeless Integration Branch Features
-> **Want enterprise-grade scraping? Check out our [Scrapeless Integration Branch](https://github.com/itsOwen/CyberScraper-2077/tree/)!**
+> **Want enterprise-grade scraping? Check out our [Scrapeless Integration Branch](https://github.com/itsOwen/HACKING-LLM-2077/tree/)!**
 
 - 🔐 **Advanced Web Unlocker**: Utilizes Scrapeless's enterprise-grade anti-detection technology to bypass Cloudflare, Akamai, DataDome, and other protection systems.
 - 🤖 **Automatic CAPTCHA Solving**: Seamlessly solves reCAPTCHA v2/v3, and other verification challenges without human intervention.
@@ -87,7 +88,7 @@ Whether you're a corpo data analyst, a street-smart netrunner, or just someone l
 
 ## 🎥 Demo
 
-Check out our Redesigned and Improved Version of CyberScraper-2077 with more functionality [YouTube video](https://www.youtube.com/watch?v=TWyensVOIvs) for a full walkthrough of CyberScraper 2077's capabilities.
+Check out our Redesigned and Improved Version of HACKING-LLM  with more functionality [YouTube video](https://www.youtube.com/watch?v=TWyensVOIvs) for a full walkthrough of HACKING-LLMs capabilities.
 
 Check out our first build (Old Video) [YouTube video](https://www.youtube.com/watch?v=iATSd5Ijl4M)
 
@@ -101,14 +102,14 @@ Please follow the Docker Container Guide given below, as I won't be able to main
 
 ## 🛠 Installation
 
-**Note: CyberScraper 2077 requires Python 3.10 or higher.**
+**Note: HACKING-LLM 2077 requires Python 3.10 or higher.**
 
 ### Main Branch Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/itsOwen/CyberScraper-2077.git
-   cd CyberScraper-2077
+   git clone https://github.com/itsOwen/HACKING-LLM.git
+   cd HACKING-LLM
    ```
 
 2. Create and activate a virtual environment:
@@ -141,8 +142,8 @@ For enterprise-grade scraping with automatic CAPTCHA solving and advanced anti-b
 
 1. Clone the Scrapeless integration branch:
    ```bash
-   git clone -b CyberScrapeless-2077 https://github.com/itsOwen/CyberScraper-2077.git
-   cd CyberScraper-2077
+   git clone -b CyberScrapeless-2077 https://github.com/itsOwen/HACKING-LLM.git
+   cd HACKING-LLM
    ```
 
 2. Install requirements and set API keys:
@@ -170,7 +171,7 @@ Note: I only recommend using OpenAI and Gemini API as these models are really go
 
 ## 🐳 Docker Installation
 
-If you prefer to use Docker, follow these steps to set up and run CyberScraper 2077:
+If you prefer to use Docker, follow these steps to set up and run HACKING-LLM 2077:
 
 ### Main Branch Docker
 
@@ -178,18 +179,18 @@ If you prefer to use Docker, follow these steps to set up and run CyberScraper 2
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/itsOwen/CyberScraper-2077.git
-   cd CyberScraper-2077
+   git clone https://github.com/itsOwen/HACKING-LLM.git
+   cd HACKING-LLM
    ```
 
 3. Build the Docker image:
    ```bash
-   docker build -t cyberscraper-2077 .
+   docker build -t HACKING-LLM
    ```
 
 4. Run the container:
    ```bash
-   docker run -p 8501:8501 -e OPENAI_API_KEY="your-actual-api-key" -e GOOGLE_API_KEY="your-actual-api-key" cyberscraper-2077
+   docker run -p 8501:8501 -e OPENAI_API_KEY="your-actual-api-key" -e GOOGLE_API_KEY="your-actual-api-key" HACKING-LLM
    ```
 
 ### Scrapeless Branch Docker
@@ -197,14 +198,14 @@ If you prefer to use Docker, follow these steps to set up and run CyberScraper 2
 For the Scrapeless integration branch:
 
 ```bash
-git clone -b CyberScrapeless-2077 https://github.com/itsOwen/CyberScraper-2077.git
-cd CyberScraper-2077
-docker build -t cyberscrapeless .
+git clone -b HACKING-LLM https://github.com/itsOwen/HACKING-LLM.git
+cd HACKING-LLM
+docker build -t HACKING-LLM .
 docker run -p 8501:8501 \
   -e OPENAI_API_KEY="your-actual-api-key" \
   -e GOOGLE_API_KEY="your-actual-api-key" \
   -e SCRAPELESS_API_KEY="your-scrapeless-api-key" \
-  cyberscrapeless
+  HACKING-LLM
 ```
 
 ### Using Ollama with Docker
@@ -224,14 +225,14 @@ If you want to use Ollama with the Docker setup:
 
 4. Run the Docker container with the host network and set the Ollama URL:
    ```bash
-   docker run -e OLLAMA_BASE_URL=http://host.docker.internal:11434 -p 8501:8501 cyberscraper-2077
+   docker run -e OLLAMA_BASE_URL=http://host.docker.internal:11434 -p 8501:8501 HACKING-LLM
    ```
 
    Now visit the url: http://localhost:8501/
    
    On Linux you might need to use this below:
    ```bash
-   docker run -e OLLAMA_BASE_URL=http://<your-host-ip>:11434 -p 8501:8501 cyberscraper-2077
+   docker run -e OLLAMA_BASE_URL=http://<your-host-ip>:11434 -p 8501:8501 HACKING-LLM
    ```
    Replace `<your-host-ip>` with your actual host machine IP address.
 
@@ -254,7 +255,7 @@ Note: Ensure that your firewall allows connections to port 11434 for Ollama.
 
 4. Ask the chatbot to extract the data in any format. Select whatever data you want to export or even everything from the webpage.
 
-5. Watch as CyberScraper 2077 tears through the net, extracting your data faster than you can say "flatline"!
+5. Watch as HACKING-LLM 2077 tears through the net, extracting your data faster than you can say "flatline"!
 
 ### Scrapeless Branch Usage
 
@@ -275,7 +276,7 @@ https://example.com/search?q=cyberpunk&page={page} 1-10
 
 > **Note**: The multi-page scraping feature is currently in beta. While functional, you may encounter occasional issues or unexpected behavior. We appreciate your feedback and patience as we continue to improve this feature.
 
-CyberScraper 2077 now supports multi-page scraping, allowing you to extract data from multiple pages of a website in one go. This feature is perfect for scraping paginated content, search results, or any site with data spread across multiple pages.
+HACKING-LLM now supports multi-page scraping, allowing you to extract data from multiple pages of a website in one go. This feature is perfect for scraping paginated content, search results, or any site with data spread across multiple pages.
 
 ### How to Use Multi-Page Scraping
 
@@ -306,11 +307,11 @@ I suggest you enter the URL structure every time if you want to scrape multiple 
    Replace `{page}` with where the page number should be in the URL.
 
 4. **Automatic Pattern Detection**:
-   If you don't specify a pattern, CyberScraper 2077 will attempt to detect the URL pattern automatically. However, for best results, specifying the pattern is recommended.
+   If you don't specify a pattern, HACKING-LLM will attempt to detect the URL pattern automatically. However, for best results, specifying the pattern is recommended.
 
 ### Enhanced Multi-Page with Scrapeless
 
-The [Scrapeless integration branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077) provides enhanced multi-page scraping with:
+The [Scrapeless integration branch](https://github.com/0xSojalSec/HACKING-LLM/tree/HACKING-LLM) provides enhanced multi-page scraping with:
 - **Automatic retry logic** for failed pages
 - **Global proxy rotation** for different pages
 - **CAPTCHA auto-solving** across all pages
@@ -321,7 +322,7 @@ The [Scrapeless integration branch](https://github.com/itsOwen/CyberScraper-2077
 - Start with a small range of pages to test before scraping a large number.
 - Be mindful of the website's load and your scraping speed to avoid overloading servers.
 - Use the `simulate_human` option for more natural scraping behavior on sites with anti-bot measures.
-- Consider using the [Scrapeless branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077) for heavily protected sites.
+- Consider using the [Scrapeless branch](https://github.com/0xSojalsec/HACKING-LLM/tree/HACKING-LLM) for heavily protected sites.
 - Regularly check the website's `robots.txt` file and terms of service to ensure compliance.
 
 ### Example
@@ -336,7 +337,7 @@ If you want to scrape a specific page, just enter the query "please scrape page 
 
 > **Note**: The Tor network scraping feature allows you to access and scrape .onion sites. This feature requires additional setup and should be used responsibly and legally.
 
-CyberScraper 2077 now supports scraping .onion sites through the Tor network, allowing you to access and extract data from the dark web safely and anonymously. This feature is perfect for researchers, security analysts, and investigators who need to gather information from Tor hidden services.
+HACKING-LLM now supports scraping .onion sites through the Tor network, allowing you to access and extract data from the dark web safely and anonymously. This feature is perfect for researchers, security analysts, and investigators who need to gather information from Tor hidden services.
 
 ### Prerequisites
 
@@ -361,7 +362,7 @@ CyberScraper 2077 now supports scraping .onion sites through the Tor network, al
 ### Using Tor Scraping
 
 1. **Basic Usage**:
-   Simply enter an .onion URL, and CyberScraper will automatically detect and route it through the Tor network:
+   Simply enter an .onion URL, and HACKING-LLM will automatically detect and route it through the Tor network:
    ```
    http://example123abc.onion
    ```
@@ -399,13 +400,13 @@ For Docker users, add these additional flags to enable Tor support:
 docker run -p 8501:8501 \
   --network="host" \
   -e OPENAI_API_KEY="your-api-key" \
-  cyberscraper-2077
+  HACKING-LLM
 ```
 
 ### Example Usage
 
 <p align="center">
-  <img src="https://i.postimg.cc/3JvhgtMP/cyberscraper-onion.png" alt="CyberScraper 2077 Onion Scrape">
+  <img src="https://i.postimg.cc/3JvhgtMP/HACKING-LLM-onion.png" alt="HACKING-LLM Onion Scrape">
 </p>
 
 ## Setup Google Sheets Authentication:
@@ -416,7 +417,7 @@ docker run -p 8501:8501 \
 4. Find your existing OAuth 2.0 Client ID and delete it.
 5. Click "Create Credentials" > "OAuth client ID".
 6. Choose "Web application" as the application type.
-7. Name your client (e.g., "CyberScraper 2077 Web Client").
+7. Name your client (e.g., "HACKING-LLM Web Client").
 8. Under "Authorized JavaScript origins", add:
    - http://localhost:8501
    - http://localhost:8502
@@ -439,7 +440,7 @@ docker run -p 8501:8501 \
 - You're doing research or educational projects
 - Budget is a primary concern (free tier friendly)
 
-### Choose [Scrapeless Integration Branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077) If:
+### Choose [Scrapeless Integration Branch](https://github.com/0xsojalsec/HACKING-LLL/tree/HACKING-LLM) If:
 - You're scraping heavily protected sites (Cloudflare, Akamai, DataDome)
 - You need enterprise-grade success rates (~95%)
 - CAPTCHAs are blocking your scraping
@@ -467,7 +468,7 @@ You can also bypass the captcha using the ```-captcha``` parameter at the end of
 
 ### Scrapeless SDK Integration
 
-For users of the [Scrapeless integration branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077), here are the core capabilities:
+For users of the [Scrapeless integration branch](https://github.com/0xSojalSec/HACKING-LLM/tree/HACKING-LLM), here are the core capabilities:
 
 #### Web Unlocker API
 ```python
@@ -506,7 +507,7 @@ result = scrapeless.scraper(
 
 ## 🤝 Contributing
 
-We welcome all cyberpunks, netrunners, and code samurais to contribute to CyberScraper 2077! Whether you're enhancing the main branch, improving the Scrapeless integration, or adding new features, your contributions are valued.
+We welcome all cyberpunks, netrunners, and code samurais to contribute to HACKING-LLM! Whether you're enhancing the main branch, improving the Scrapeless integration, or adding new features, your contributions are valued.
 
 1. Fork the repository (choose your preferred branch)
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -520,7 +521,7 @@ We welcome all cyberpunks, netrunners, and code samurais to contribute to CyberS
 Ran into a glitch in the matrix? Let me know by adding the issue to this repo so that we can fix it together.
 
 ### Scrapeless Integration Issues
-If you encounter issues with the [Scrapeless branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077):
+If you encounter issues with the [Scrapeless branch](https://github.com/0xsojalsec/HACKING-LLM/tree/HACKING-LLM):
 
 1. **API Key Issues**: Verify your Scrapeless API key is valid
 2. **High Success Rate Expected**: Scrapeless should achieve ~95% success on protected sites
@@ -530,10 +531,10 @@ If you encounter issues with the [Scrapeless branch](https://github.com/itsOwen/
 ## ❓ FAQ
 
 **Q: Which branch should I use?**
-A: Use the main branch for general scraping and Tor support. Use the [Scrapeless integration branch](https://github.com/itsOwen/CyberScraper-2077/tree/CyberScrapeless-2077) for enterprise-grade scraping with automatic CAPTCHA solving and anti-bot bypassing.
+A: Use the main branch for general scraping and Tor support. Use the [Scrapeless integration branch](https://github.com/0xsojalsec/HACKING-LLM/tree/HACKING-LLM) for enterprise-grade scraping with automatic CAPTCHA solving and anti-bot bypassing.
 
-**Q: Is CyberScraper 2077 legal to use?**
-A: CyberScraper 2077 is designed for ethical web scraping. Always ensure you have the right to scrape a website and respect their robots.txt file.
+**Q: Is HACKING-LLM legal to use?**
+A: HACKING-LLM 2077 is designed for ethical web scraping. Always ensure you have the right to scrape a website and respect their robots.txt file.
 
 **Q: Can I use this for commercial purposes?**
 A: Yes, under the terms of the MIT License. The Scrapeless integration branch is particularly well-suited for commercial use with its enterprise-grade features.
@@ -576,7 +577,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **📧 Email**: market@scrapeless.com
 
 <p align="center">
-  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=CyberScraper">
+  <a href="https://www.thordata.com/?ls=VNSCxroa&lk=HACKING-LLM">
     <img src="https://i.postimg.cc/dtwTvm5V/728-x-90-2.gif" alt="Collect-web-data-728x90" border="0">
   </a>
 </p>
