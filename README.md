@@ -567,15 +567,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **🏗️ On-premise Options** - Private cloud deployment
 - **📧 Email**: market@scrapeless.com
 
-### 🌐 Connect With Scrapeless Devs
-
-- **🌐 Website**: [scrapeless.com](https://www.scrapeless.com?utm_source=owen)
-- **📚 Documentation**: [docs.scrapeless.com](https://docs.scrapeless.com)
-- **💬 Discord**: [Discord Community](https://discord.com/invite/xBcTfGPjCQ)
-- **💼 LinkedIn**: [Follow Us](https://www.linkedin.com/company/scrapeless/posts/?feedView=all)
-- **🐦 Twitter**: [Follow Us](https://x.com/Scrapelessteam)
-- **📧 Email**: market@scrapeless.com
-
 <p align="center">
   <a href="https://www.thordata.com/?ls=VNSCxroa&lk=HACKING-LLM">
     <img src="https://i.postimg.cc/dtwTvm5V/728-x-90-2.gif" alt="Collect-web-data-728x90" border="0">
