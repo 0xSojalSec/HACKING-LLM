@@ -1,4 +1,4 @@
-# 🌐 CyberScraper 2077
+#
 
 <p align="center">
   <a href="https://www.thordata.com/?ls=VNSCxroa&lk=CyberScraper">
@@ -548,14 +548,6 @@ A: Scrapeless offers various pricing tiers. Check their [pricing page](https://w
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Use it, mod it, sell it – just don't blame us if you end up flatlined.
 
-## 📞 Contact
-
-Got questions? Need support? Want to hire me for a gig?
-
-- 📧 Email: owensingh72@gmail.com
-- 🐦 Twitter: [@owensingh_](https://x.com/owensingh_)
-- 💬 Website: [Portfolio](https://www.owensingh.com)
-
 ## 🚀 Get Started With Scrapeless
 
 ### 🆓 Free Trial
@@ -611,12 +603,5 @@ Remember, samurai: In the dark future of the NET, knowledge is power, but it's a
 
 ![Alt](https://repobeats.axiom.co/api/embed/80758496e19179f355d6d71c180db7aca66d396b.svg "Repobeats analytics image")
 
----
 
-<p align="center">
-  <strong>CyberScraper 2077 – Because in 2077, what makes someone a criminal? Getting caught.</strong>
-</p>
 
-<p align="center">
-  Built with ❤️ and chrome by the streets of Night City | © 2077 Owen Singh
-</p>
